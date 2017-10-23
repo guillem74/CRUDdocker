@@ -1,5 +1,5 @@
 # CRUD
-CRUD built in nodjs and mongo whith docker implementation.
+CRUD built in nodejs and mongodb with Docker implementation.
 
 To test it, follow next steps:
 
